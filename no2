@@ -24,11 +24,11 @@ do
         Type = Type:lower()
 
         if Type == 'error' then
-            error('[ Visual ] Error: ' .. Message)
+            error('[ FrostTalk ] Error: ' .. Message)
         elseif Type == 'log' then
-            print('[ Visual ] ' .. Message)
+            print('[ FrostTalk ] ' .. Message)
         elseif Type == 'warn' then
-            warn('[ Visual ] Warning: ' .. Message)
+            warn('[ FrostTalk ] Warning: ' .. Message)
         end
     end
 
