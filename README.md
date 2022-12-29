@@ -1,3 +1,3 @@
-# no-2
+# YOUR A SKID
 
-#why are you even here skid
+why are you even here skid
